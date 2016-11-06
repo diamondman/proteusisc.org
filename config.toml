@@ -1,0 +1,7 @@
+baseurl = "http://proteusisc.org/"
+languageCode = "en-us"
+title = "ProteusISC - General In System Configuration"
+theme = "purehugo"
+#theme = "hugo-theme-learn"
+#theme = "blackburn"
+pygmentsuseclasses = true
